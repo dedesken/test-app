@@ -1,0 +1,15 @@
+.app {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+
+  @media screen and (max-width: 844px) {
+    flex-direction: column-reverse;
+  }
+}
+
+.container {
+  padding: 20px 30px;
+  min-width: 45vw;
+  background: #acacac;
+}
