@@ -1,7 +1,6 @@
 import React from 'react';
 import styles from './App.module.scss';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import { Test } from './pages/test';
 import { NoMatch } from './pages/NoMatch/noMatch';
 import { Header } from './components/header/header';
 import { LoginPage } from './pages/login/login';

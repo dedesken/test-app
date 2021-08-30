@@ -1,0 +1,14 @@
+.noMatch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+
+    h2 {
+        font-size: 100px;
+    }
+    p {
+        font-size: 30px;
+    }
+}
